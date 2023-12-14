@@ -2,7 +2,7 @@ class Obstaculo {
 
     constructor() {
       this.mano =  loadImage("img/Mano_soltando_aguja.png");
-      this.aguja =  loadImage("img/Aguja_P.png");
+      this.aguja =  loadImage("img/Aguja_p.png");
       this.x = (random(width));
       this.y = -(random(0, height));
       this.anch =10;
