@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Gilda+Display&family=Playfair+Display:ital@1&display=swap');
+body{
+    background-color: bisque;
+}
+h1,h3,h4,h5{
+    font-family: 'Playfair Display', serif;
+}
+p, strong{
+    font-family: 'Gilda Display', serif;
+}
+
+.TituloH{
+    text-align: center;
+}
+
+.AutorH{
+    text-align: center;
+}
+.finH{
+    text-align: center;
+}
+
+.ProcesoT{
+    text-align: center;
+}
+
+.AventuraT{
+    text-align: center;
+}
+
+.Presentacion{
+    text-align:justify;
+}
+
+.imgFin{
+    width: 500px;
+    height:300px;
+}
+
+.CardPan{
+    display: flex;
+        justify-content: center;
+
+}
+
+    .FlechaH{
+        display: flex;
+        justify-content: center;
+    }
+
+.imgMapa{
+    width: 500px;
+    height: 300px;
+}
+
+.CardMapaAv{
+    display: flex;
+    justify-content: center;
+}
+.imgDocss{
+    width: 500px;
+    height: 300px;
+}
+.CardDocss{
+    display: flex;
+    justify-content: center;
+}
+.ImgCarp{
+    width: 500px;
+    height: 300px;
+}
+.CardCarp{
+    display: flex;
+    justify-content: center;
+}
+
+.imgtp3{
+    width: 400px;
+    height: 400px;
+}
+.Cardtp3{
+    display: flex;
+    justify-content: center;
+}
+.imgtp5{
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+}
+.Cardtp5{
+    display: flex;
+    justify-content: center; 
+}
+.imgtpF{
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+}
+.Cardtpfinal{
+    display: flex;
+    justify-content: center;
+}
+
+.flechaP{
+    display: flex;
+    justify-content: center;}
+
+    .CardAv{
+        display: flex;
+        justify-content: center;
+    }
+
+    .CardJuego{
+        display: flex;
+        justify-content: center;
+    }
